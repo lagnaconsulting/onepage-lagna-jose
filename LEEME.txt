@@ -1,0 +1,7 @@
+TARJETA DIGITAL LAGNA · JOSE MARIA LAGUNA
+
+Descomprime el ZIP y despliega toda la carpeta en un sitio independiente de Netlify para esta tarjeta.
+Incluye index.html, Jose-Maria-Laguna-LAGNA.vcf y _headers; no subas solo el HTML.
+El contacto está preparado como archivo .vcf independiente para abrirlo en el móvil.
+El logo y los estilos van integrados en el HTML. No requiere instalación ni compilación.
+Teléfono de empresa: +34 676 469 000.
